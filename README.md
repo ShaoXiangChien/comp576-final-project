@@ -82,10 +82,6 @@ The model's performance is evaluated using:
 - Add support for more diverse datasets
 - Optimize hyperparameters for better performance
 
-## License
-
-[Add your license information here]
-
 ## Acknowledgments
 
 - CLIP model from OpenAI
