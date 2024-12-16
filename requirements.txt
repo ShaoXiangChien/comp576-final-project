@@ -1,0 +1,9 @@
+torch
+torchvision
+transformers
+nltk
+sentence-transformers
+tqdm
+numpy
+pillow
+fiftyone
